@@ -4,7 +4,7 @@
   "description": "Streaming xlsx generator",
   "main": "/lib/xlsx-export.js",
   "scripts": {
-    "test": "mocha --reporter dot"
+    "test": "node test.js"
   },
   "author": "Andrew Grachov <DrontXL@yandex.ru> (https://github.com/AndrewGrachov)",
   "license": "ISC",
@@ -12,5 +12,14 @@
     "zip-stream": "^0.3.3",
     "async": "^0.8.0",
     "node-zip": "^1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "xlsx": "^0.6.2",
+    "mocha-jshint": "0.0.7",
+    "sinon": "^1.9.1",
+    "chai": "^1.9.1",
+    "sinon-chai": "^2.5.0",
+    "should": "^3.3.1"
   }
 }
