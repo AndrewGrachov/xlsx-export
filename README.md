@@ -1,4 +1,10 @@
 xlsx-export
 ===========
 
-node js streaming json -> xlsx converter
+basic node js streaming json -> xlsx converter
+
+**test**
+
+```
+mocha
+```
