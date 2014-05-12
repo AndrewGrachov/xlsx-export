@@ -1,6 +1,6 @@
 {
   "name": "xlsx-export",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Streaming xlsx generator",
   "main": "lib/xlsx-export.js",
   "scripts": {
