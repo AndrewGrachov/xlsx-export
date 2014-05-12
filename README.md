@@ -3,6 +3,9 @@ xlsx-export
 
 very basic node js streaming json -> xlsx converter
 
+Based on **functionscope** https://www.npmjs.org/package/excel-export
+
+
 **test**
 
 ```
